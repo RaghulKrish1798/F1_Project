@@ -1,0 +1,6 @@
+https://github.com/cfcooney/medium_posts
+
+
+https://towardsdatascience.com/formula-one-extracting-and-analysing-historical-results-19c950cda1d1
+
+https://medium.com/@blaisepke/f1-data-analysis-using-python-and-tableau-6b163b3ed186
