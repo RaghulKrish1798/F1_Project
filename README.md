@@ -9,5 +9,5 @@ Project Outline:
 2) Data Cleaning using BeautifulSoup library.
 3) Created a customized Pandas Dataframe with columns such as 'Driver Name', 'Car', 'Points scored', 'Driver Position' and 'Year'.
 4) Saved the created database into a csv file.
-5) Uploaded the csv file to Google Cloud Platform into Google Querry.
+5) Uploaded the csv file to Google Cloud Platform into Google BigQuerry.
 6) Accessed the csv file from Google Querry from Tableau Desktop and performed Data Visualisation.
